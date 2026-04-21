@@ -36,6 +36,7 @@
     body {
       font-family: 'Source Sans 3', sans-serif;
       color: var(--gray); background: var(--beige); line-height: 1.7;
+      font-variant-numeric: lining-nums tabular-nums;
     }
 
     /* NAVBAR */

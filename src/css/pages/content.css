@@ -33,6 +33,7 @@
       color: var(--gray);
       background: var(--beige);
       line-height: 1.75;
+      font-variant-numeric: lining-nums tabular-nums;
     }
 
     /* ---- NAVBAR ---- */
